@@ -11,6 +11,8 @@ PhishGuard – Python tool to detect phishing URLs and emails for educational an
 - Educational focus for cybersecurity learning
 
 ## Installation
-1. Clone the repository:
+
+### 1. Clone the repository
 ```bash
 git clone https://github.com/giovannidoubleb/PhishGuardPro.git
+cd PhishGuardPro
